@@ -1,2 +1,2 @@
-# Scritp to generate random numbers for the test
+# Script to generate random numbers for the test
 
